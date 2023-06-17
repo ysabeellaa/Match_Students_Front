@@ -1,0 +1,34 @@
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    // h1{
+    //     font-size: 2.5rem;
+    //     margin-bottom: 5rem;
+    //     text-align: center;
+    // }
+    .h1Card {
+        font-size: 2.5rem;
+        margin: 5rem 0 12rem 0;
+        text-align: center;
+
+    }
+    .h1CardEnd{
+        font-size: 2rem;
+        margin: 10rem 0;
+        text-align: center;
+        // margin-bottom: 5rem;
+    }
+
+    .generalDivCards {
+        // margin: 4rem 0;
+        display: flex;
+        flex-direction: column;
+        // height: 1000px;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+}
